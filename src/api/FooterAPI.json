@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Patna, Bihar (811105)"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "987-654-3211"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@kodyfier.com"
+  }
+]
